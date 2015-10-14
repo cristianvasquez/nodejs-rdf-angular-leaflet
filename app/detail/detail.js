@@ -29,7 +29,8 @@ angular.module('app.detail', ['ngRoute', 'ngSanitize'])
             return 'token';
         } else {
             // @TODO replace this thing with a uri parameter.
-            return string.replace(/http:\/\/localhost:8080\/api\/nodes\//g, '');
+           // return string.replace( /^\D+/g, '');
+            return string.replace(/.*?(\d+)[^\d]*$/,'$1');
         }
     }
     return shrink;

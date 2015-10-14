@@ -26,8 +26,10 @@ app.use(express.static('server/rdf'));
 
 // listen (start app with node server.js) ======================================
 app.listen(argv.port);
+
+var os = require("os");
 function getURIQA(){
-    return 'http://localhost:'+ argv.port+'/api/nodes/';
+    return 'http://'+os.hostname()+':'+ argv.port+'/api/nodes/';
 }
 console.log("App listening on port " + argv.port);
 
