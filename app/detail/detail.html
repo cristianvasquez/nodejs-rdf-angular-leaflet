@@ -1,0 +1,7 @@
+<h3>
+  <a href="#/detail/{{current['@id'] | shrink }}">{{current.name}}</a> - <a href="{{current['@id']}}">(json)</a>
+</h3>
+<pre>
+  {{current | prettyJSON }}
+  <!--{{current | prettyJSON | linky }}-->
+</pre>

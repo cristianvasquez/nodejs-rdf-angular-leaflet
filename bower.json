@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-rdf-angular-leaflet",
+  "version": "0.0.0",
+  "description": "Shows some rdf data in a map.",
+  "author": "Cristian Vasquez",
+  "dependencies": {
+    "Leaflet.awesome-markers": "~2.0.2",
+    "angular": "~1.4.0",
+    "angular-leaflet-directive": "~0.8.8",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-sanitize": "~1.4.7",
+    "angular-ui-bootstrap": "~0.13.4",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "leaflet": "~0.7.5"
+  }
+}

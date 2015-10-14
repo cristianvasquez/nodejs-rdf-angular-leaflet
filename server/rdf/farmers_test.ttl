@@ -1,0 +1,72 @@
+<http://openthings.org/organization/24529>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 2018 Antwerpen" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24529> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Klein Antwerpen"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.2037695"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4112637"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                <mailto:hi@foo.be> .
+
+<http://openthings.org/organization/13710>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Ramlot Jean-François  &quot;D'un Jardin à l'Autre&quot;"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.3762753"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.718097"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24458>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3511 Kuringen" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24458> ;
+        <http://openthings.org/name>   "Voedselteam Kuringen"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.94387"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.29789"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                <mailto:hi@foo.be> .
+
+<http://openthings.org/organization/20457>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Maria-Hendrikaplein 5 9000 Gent" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20457> , <http://www.oxfamwereldwinkels.be/nl/gent> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.0370623"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7117117"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                <mailto:hi@foo.be> .
+
+<http://openthings.org/organization/11695>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Haachtsebaan 2 2223 Schriek" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=11695> , <http://www.akelei-schriek.be> ;
+        <http://openthings.org/name>   "Akelei"@fr ;
+        <http://openthings.org/tag>    "Pommes de terre"@fr , "Petits fruits frais"@fr , "Légumes frais"@fr , "Certifié comme agriculteur bio et point de vente"@fr ;
+        <http://schema.org/latitude>   "51.0379086"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.6721758"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                <mailto:hi@foo.be> .
+
+<http://openthings.org/organization/13334>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "GHL Groupe SA"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.7066778"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.8733255"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13313>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Allée de Wesomont 10 4950 Waimes" ;
+        <http://openthings.org/name>   "Fromagerie des Ardennes SPRL"@fr ;
+        <http://openthings.org/tag>    "Fromage de lait de vache"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.4148914"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.1115604"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://xmlns.com/foaf/0.1/mbox>
+                <mailto:hi@foo.be> .

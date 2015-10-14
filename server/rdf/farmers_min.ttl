@@ -1,0 +1,1762 @@
+<http://openthings.org/organization/22059>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Mollevijver 10 9991 Adegem" ;
+        <http://openthings.org/name>   "Sierens Johan"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr , "Viande d'agneau, de mouton, de chèvre"@fr , "Lait de chèvre, lait de brébis"@fr ;
+        <http://schema.org/latitude>   "51.1841101"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.5108373"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22969>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Den Rooi 5 2860 Sint-Katelijne-Waver" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=22969> , <http://www.doederij.be> ;
+        <http://openthings.org/name>   "Kristine De Brabandere - De Doederij"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "51.0764811"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5157027"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21642>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Leuvensesteenweg 281 3190 Boortmeerbeek" ;
+        <http://openthings.org/link>   <http://www.biogood.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=21642> ;
+        <http://openthings.org/name>   "IJsateljee"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.964289"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5795417"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13326>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Louchert  14 6717  ATTERT" ;
+        <http://openthings.org/name>   "Gansemans Yannick"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.7429468"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.744757"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18270>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Vrijheid 86 2320 Hoogstraten" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18270> ;
+        <http://openthings.org/name>   "De Pastinakel"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.4044011"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7626639"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24821>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue de Ways 10 1470 Genappe" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24821> ;
+        <http://openthings.org/name>   "Le Côté Bio Genappe"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.6107849"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4514251"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22209>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Moortelstraat 17/3 9160 Lokeren" ;
+        <http://openthings.org/link>   <http://www.ecotreasures.be> ;
+        <http://openthings.org/name>   "Eco Treasures"@fr ;
+        <http://openthings.org/tag>    "Huiles et graisses végétales"@fr , "Certifié comme préparateur bio"@fr , "Huiles essentiels"@fr , "Actif comme importateur"@fr ;
+        <http://schema.org/latitude>   "51.084082"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.0049448"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24103>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Kayls Norbert"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.1457074"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9245645"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13489>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Langer Alex"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.335752"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.0447897"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11937>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Dodepaardenstraat 58 8600 Keiem-Diksmuide" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=11937> , <http://www.dischhof.be> ;
+        <http://openthings.org/name>   "Het Dischhof bvba"@fr ;
+        <http://openthings.org/tag>    "yaourt de lait de vache"@fr , "Fromage de lait de vache"@fr , "Actif comme acheteur de l'agriculteur"@fr , "Certifié comme préparateur bio"@fr , "Crème glacée de lait de vache"@fr , "Beurre et crème"@fr , "Produits laitiers"@fr ;
+        <http://schema.org/latitude>   "51.0739507"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.8916353"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11574>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue du Ban 1 6990 Fronville" ;
+        <http://openthings.org/name>   "Gillet Pascal"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2939723"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4226753"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20436>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Hoogstraat 128 8540 Deerlijk" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/deerlijk> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20436> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "50.8537941"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.3532038"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11887>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Chestruvin 4 5520 Onhaye" ;
+        <http://openthings.org/name>   "Verhelle Thibaut"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2621635"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8603624"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12262>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Esperantolaan 5a 3300 Tienen" ;
+        <http://openthings.org/link>   <http://www.marma.be> ;
+        <http://openthings.org/name>   "Marma"@fr ;
+        <http://openthings.org/tag>    "Spread végétarien"@fr , "Tofu, tahoe, tempeh, seitan ..."@fr , "Pizza"@fr , "Actif comme distributeur"@fr , "Boisson rafraîchissante"@fr , "Céréales"@fr , "Laits végétaux"@fr , "Vin"@fr , "Frites et croquettes de pommes de terre"@fr , "Fromage de lait de vache"@fr , "Légumes surgelés"@fr , "Suppléments diététiques"@fr , "Candy"@fr , "Huiles et graisses végétales"@fr , "Certifié comme préparateur bio"@fr , "Margarine"@fr , "Pain, prêt à cuir"@fr , "Bière"@fr , "Desserts de soja"@fr , "Café et café soluble"@fr , "Beurre et crème"@fr , "Crème glacée de lait de vache"@fr , "Pâtes"@fr , "Thés et tisanes"@fr , "Burgers végétariens"@fr , "Jus de légumes"@fr , "Jus de fruits"@fr , "Miel"@fr , "Sucre"@fr , "yaourt de lait de vache"@fr , "Muesli, céréales et biscottes"@fr , "Sauce"@fr , "Produits chocolatiers"@fr ;
+        <http://schema.org/latitude>   "50.80371"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9205269"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24516>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9520 Bavegem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24516> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Sint-Lievens-Houtem"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.9442706"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.8657862"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25096>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9660 Brakel" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=25096> ;
+        <http://openthings.org/name>   "Ponderspijs"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.80276"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.76382"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13505>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Le Pré Gourmand"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2954479"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.29473"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23765>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Kruisstraat 21 9090 Melle" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=23765> ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.003"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7961148"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24495>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9030 Mariakerke (Gent)" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24495> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Mariakerke"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.0736204"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.680642"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20494>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Dorpsstraat 38 3470 Kortenaken" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/kortenaken> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20494> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "50.8722271"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.0316827"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24816>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Kortewagenstraat 10 8650 Houthulst" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24816> ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.977392"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.9435769"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24453>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3360 Bierbeek" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24453> ;
+        <http://openthings.org/name>   "Voedselteam Bierbeek"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8279"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.75981"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23631>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Beeodiversity sprl"@fr ;
+        <http://openthings.org/tag>    "Miel"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.8356987"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3614373"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24937>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Robert Dansaertlaan 9A 1702 Groot-Bijgaarden" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24937> , <http://www.bioplanet.be> ;
+        <http://openthings.org/name>   "Bio-Planet Groot-Bijgaarden"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.8671091"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.274291"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18344>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sint-Jobsesteenweg 532 1180 Brussel-Ukkel" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18344> , <http://www.sequoiashop.com> ;
+        <http://openthings.org/name>   "Art de vivre SA (Sequoia Uccle)"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.7925121"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3594249"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18486>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Markt 8000 Brugge" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18486> ;
+        <http://openthings.org/name>   "Markt Brugge"@fr ;
+        <http://openthings.org/tag>    " "@fr ;
+        <http://schema.org/latitude>   "51.2085842"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.2239858"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13734>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Salaison du Condroz - MARCOTTY SA"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.6756097"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5302838"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25262>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Association Agricole MFE"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4507847"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7703672"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22233>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "M. Cremer Dominique"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.6252826"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.6453712"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18081>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Strijdersstraat 25 2650 Edegem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18081> ;
+        <http://openthings.org/name>   "De Korrel"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.1561158"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4446446"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21261>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue Fayais n° 8 4950 Waimes" ;
+        <http://openthings.org/name>   "Lemaire André"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4243464"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.1112381"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11940>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Oostjachtpark 3 9100 Sint-Niklaas" ;
+        <http://openthings.org/link>   <http://www.hygiena.be> ;
+        <http://openthings.org/name>   "Hygiëna"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur importateur"@fr , "Miel"@fr , "Biscuits"@fr , "Certifié comme préparateur bio"@fr , "Sucre"@fr ;
+        <http://schema.org/latitude>   "51.1435324"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1744609"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22859>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Bruyndonckx Benoît (magasin &quot;Autrement&quot;)"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.6939979"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.039252"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23589>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Tiensevest 122 3000 Leuven" ;
+        <http://openthings.org/name>   "Yenn"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8766516"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7152537"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25128>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Poperingseweg 475 8908 Vlamertinge" ;
+        <http://openthings.org/link>   <http://monts.be> , <http://deux> , <http://www.entre> ;
+        <http://openthings.org/name>   "Entre-Deux-Monts"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.8546973"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.8170862"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13571>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Marchand Stéphane"@fr ;
+        <http://openthings.org/tag>    "Conserves de viande et viande préparée"@fr , "Conserves de poisson et poisson préparé"@fr , "Viande de boeuf"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.4948333"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8493937"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12031>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Putterijstraat 7A 8700 Tielt" ;
+        <http://openthings.org/link>   <http://www.deaardappelhoeve.be> ;
+        <http://openthings.org/name>   "De Aardappelhoeve"@fr ;
+        <http://openthings.org/tag>    "Pommes de terre"@fr , "Actif comme acheteur de l'agriculteur"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.9747875"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.3577793"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24448>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3200 Aarschot" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24448> ;
+        <http://openthings.org/name>   "Voedselteam Gelrode"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.9806151"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.827381"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24427>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 2640 Mortsel" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24427> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Mortsel"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.1691158"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4662486"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11906>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Brechtsebaan 6 2900 Schoten" ;
+        <http://openthings.org/link>   <http://www.altoni.be> ;
+        <http://openthings.org/name>   "Altoni Kelderman"@fr ;
+        <http://openthings.org/tag>    "Pâtes"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.2649282"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.510145"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20426>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Turnhoutsebaan 94 2140 Borgerhout (Antwerpen)" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/borgerghout> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20426> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.2155368"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4321548"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22675>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Donation Royale"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.1487253"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.1105208"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21711>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Poussart Jean-Jacques"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.0473295"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.2779947"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18610>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "de Fiennesstraat 77 1070 Anderlecht" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18610> , <http://www.theconferencehouse.be> , <http://www.cafedefiennes.be> ;
+        <http://openthings.org/name>   "Conferentiecentrum café de fiennes/ The Conference house"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8392093"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3311893"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13324>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Gabriel Martine"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8787868"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.752511"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20839>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Groendreef 101 9880 Aalter" ;
+        <http://openthings.org/name>   "Hain Celestial Holding bvba"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.1019064"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.4288049"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12878>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Abattoir Communal d’Aubel"@fr ;
+        <http://openthings.org/tag>    "Actif comme contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.7066242"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.8732301"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13637>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.pacorini.com> ;
+        <http://openthings.org/name>   "Pacorini  Antwerp NV."@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.2520706"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4203352"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23250>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Leeg Bracht 8a 9860 Balegem" ;
+        <http://openthings.org/name>   "De Wijndruif"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.9194628"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.8201249"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18518>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Grote Markt 29 1800 Vilvoorde" ;
+        <http://openthings.org/link>   <http://www.archys.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=18518> ;
+        <http://openthings.org/name>   "Archy`s Sun"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.9286833"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4223525"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12999>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Centre 15 A 6670 STEINBACH (Gouvy)" ;
+        <http://openthings.org/name>   "Bastin Paulette sprl"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.14509"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9022"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25102>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Plip sprl"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.8520886"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3414801"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18489>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Zeelaan 8670 Koksijde" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18489> ;
+        <http://openthings.org/name>   "Markt Koksijde"@fr ;
+        <http://openthings.org/tag>    " "@fr ;
+        <http://schema.org/latitude>   "51.1127542"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.6419422"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22257>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "M. Chaussee Dominique"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.5209245"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5309469"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23905>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "anselmostraat 2000 Antwerpen" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=23905> ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.208611"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4028325"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24109>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue Jean Borg 107 4624 Romsée" ;
+        <http://openthings.org/name>   "Lejeune Alain"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.6043724"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.6574336"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22528>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Kleingeld Alex"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.7289756"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9747074"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22165>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Sepulchre Ignace"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.389487"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.156229"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13048>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Bleyaert  Vincent"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.7189449"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.503069"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18497>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Marktplein 3740 Bilzen" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18497> ;
+        <http://openthings.org/name>   "Markt Bilzen"@fr ;
+        <http://openthings.org/tag>    " "@fr ;
+        <http://schema.org/latitude>   "50.9077686"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4197502"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22607>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Misson Henri"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.2610605"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4674298"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20905>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Aven Ackers 15b 9130 Verrebroek" ;
+        <http://openthings.org/link>   <http://www.remofrit.be> ;
+        <http://openthings.org/name>   "Van Remoortel Aardappelverwerking (Remofresh)"@fr ;
+        <http://openthings.org/tag>    "Actif comme acheteur de l'agriculteur"@fr , "Pommes de terre"@fr , "Pommes de terre coupées / épluchées"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.2497049"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1919385"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21677>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Dewere Julian"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2348164"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.621113"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21301>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sberchamps Au Charnay 56 6800 Libramont-Chevigny" ;
+        <http://openthings.org/name>   "Jerouville Christophe"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8980533"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4173552"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24501>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9080 Beervelde" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24501> ;
+        <http://openthings.org/name>   "Voedselteam Lochristi"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.0800983"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.8805757"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12034>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Weststraat 26 8420 De Haan" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=12034> , <http://www.ijsrene.be> , <http://www.tijstit.be> ;
+        <http://openthings.org/name>   "IJsbar René"@fr ;
+        <http://openthings.org/tag>    "Crème glacée de lait de vache"@fr , "Crème glacée de lait de chèvre"@fr , "Aucune information de certification trouvée"@fr , "Desserts laitiers"@fr , "Fruits préparés et en conserve"@fr ;
+        <http://schema.org/latitude>   "51.2521697"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.000657"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11972>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Zuidstraat 10 8560 Wevelgem" ;
+        <http://openthings.org/link>   <http://www.mannavita.be> ;
+        <http://openthings.org/name>   "Mannavita"@fr ;
+        <http://openthings.org/tag>    "Thés et tisanes"@fr , "Bière"@fr , "Jus de fruits"@fr , "Candy"@fr , "Actif comme distributeur importateur"@fr , "Café et café soluble"@fr , "Succédané de café"@fr , "Certifié comme préparateur bio"@fr , "Jus de légumes"@fr , "Biscuits"@fr , "Pâtes"@fr ;
+        <http://schema.org/latitude>   "50.8110195"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.2187366"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18221>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Stationsstraat 48 8730 Beernem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18221> ;
+        <http://openthings.org/name>   "Luzerne"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.1344706"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.3305199"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21017>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Schrevelstraat 13 8650 Houthulst" ;
+        <http://openthings.org/name>   "Staelens Luc"@fr ;
+        <http://openthings.org/tag>    "Pommes de terre"@fr , "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.9844812"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.8975613"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13077>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue Belle Vue  3 6470 Grandrieu" ;
+        <http://openthings.org/name>   "Buchet Marie-France et Pascal Saspj -GR"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2060439"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.2003423"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23984>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Belovo S.A."@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "49.9861247"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7017754"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22678>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Crepin Jean-Michel et Bastien"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.1511238"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.914895"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23074>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Iepersesteenweg 56 8600 Woumen" ;
+        <http://openthings.org/link>   <http://www.debron.be> ;
+        <http://openthings.org/name>   "Natuurpunt De Bron vzw"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.9983803"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.8697759"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23963>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Bagrix sprl"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.4403874"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.337687"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20571>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sleidinge-Dorp 87 / A 9940 Sleidinge" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/Sleidinge> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20571> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.1353776"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.6800753"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13035>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Carolinalei 6 2930 Brasschaat" ;
+        <http://openthings.org/link>   <http://www.semencesbio.be> , <http://www.biosano.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=13035> , <http://www.biozaadgoed.be> ;
+        <http://openthings.org/name>   "Biosano"@fr ;
+        <http://openthings.org/tag>    "Candy"@fr , "Pâtisserie"@fr , "Bière"@fr , "Pousses"@fr , "Conserves de poisson et poisson préparé"@fr , "Biscuits"@fr , "Légumineuses"@fr , "Farine de pain"@fr , "Vinaigre"@fr , "Vin"@fr , "Boisson rafraîchissante"@fr , "Herbes et épices"@fr , "Légumes préparés et en conserve"@fr , "Autre farine"@fr , "Pâtes"@fr , "Chips"@fr , "Liqueur et cidre"@fr , "Semences"@fr , "Fruits secs et noix"@fr , "Confitures"@fr , "Actif comme distributeur importateur fournisseur pour l'agriculteur"@fr , "Sauce"@fr , "Produits chocolatiers"@fr , "Huiles et graisses végétales"@fr , "Miel"@fr , "Café et café soluble"@fr , "Jus de fruits"@fr , "Jus de légumes"@fr , "Tapenades"@fr , "Thés et tisanes"@fr , "Fruits préparés et en conserve"@fr , "Spreads"@fr , "Sucre"@fr , "Certifié comme préparateur bio et point de vente"@fr , "Soupe"@fr ;
+        <http://schema.org/latitude>   "51.2932165"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4437834"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23750>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Gentsestraat 91 9300 Aalst" ;
+        <http://openthings.org/link>   <http://www.indemaeltydt.be/> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=23750> ;
+        <http://openthings.org/name>   "Restaurant In De Maeltydt"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.9376236"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.0299546"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13711>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Rampanelli Patrice"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.6459263"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4962961"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22949>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "CAFES PREKO SA"@fr ;
+        <http://openthings.org/tag>    "Café et café soluble"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.6072941"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5214637"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13156>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Dave Freddy"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.213163"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9874926"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25218>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Dehaut Pascal"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.2936557"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.8709116"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/19009>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Van Arteveldenstraat 16 2850 Boom" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=19009> , <http://www.biobello.be/nl/pakketten/dezeweek> ;
+        <http://openthings.org/name>   "Goos Boudewijn"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.08608"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.36633"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13135>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Cornet Laurent"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.6973018"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5619366"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13306>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Interleuvenlaan 62 B. 22 3001 Heverlee" ;
+        <http://openthings.org/link>   <http://www.frejafood.be> ;
+        <http://openthings.org/name>   "Freja Food"@fr ;
+        <http://openthings.org/tag>    "Biscuits"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.849578"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7355058"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20771>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Gasstraat 23 9160 Lokeren" ;
+        <http://openthings.org/link>   <http://www.stylemegreen.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20771> ;
+        <http://openthings.org/name>   "StyleMeGreen"@fr ;
+        <http://schema.org/latitude>   "51.1057216"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.9855998"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21701>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.ethiquable.coop> ;
+        <http://openthings.org/name>   "Ethiquable Benelux SCRL"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.4778162"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.0445065"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22410>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Froidbise Albert"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4538948"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.1017225"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20516>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Pelserstraat 41/2 3680 Maaseik" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20516> , <http://www.oxfamwereldwinkels.be/nl/maaseik> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.0963297"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7874826"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21104>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "BOVIGNY 41 AP 6671 Bovigny" ;
+        <http://openthings.org/name>   "Andrianne Jennifer"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2250817"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.919055"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25055>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Onze-Lieve-Vrouwstraat 3  3570 Alken" ;
+        <http://openthings.org/name>   "Cleeren NV"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur fournisseur pour l'agriculteur"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.8891277"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.2895539"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13143>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Crombach 77 4784 ST. VITH" ;
+        <http://openthings.org/name>   "Cremer  Raymond"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2646026"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.0610614"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13498>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue de Fouron 15 3790 Fourons" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=13498> ;
+        <http://openthings.org/name>   "Le Gué de la Bevronne"@fr ;
+        <http://openthings.org/tag>    "Charcuterie fine"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.756449"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7220305"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21225>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Demaret Jean-Philippe"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.9986148"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.2021438"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24759>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Vrijwilligerslaan 19 1160 Oudergem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24759> ;
+        <http://openthings.org/name>   "Seedfactory"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8250846"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4002753"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12108>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Markt 1 8480 Ichtegem" ;
+        <http://openthings.org/link>   <http://strubbe.be> , <http://www.brouwerij> ;
+        <http://openthings.org/name>   "Brouwerij Strubbe"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr , "Actif comme contractant"@fr , "Bière"@fr ;
+        <http://schema.org/latitude>   "51.0919691"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.0094491"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20587>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Kuiperstraat 22 / B 2290 Vorselaar" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20587> , <http://www.oxfamwereldwinkels.be/nl/> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.2044984"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7692074"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20929>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Charles Lemairestraat 1 1160 Brussel (Oudergem)" ;
+        <http://openthings.org/link>   <http://www.sodexo.com> ;
+        <http://openthings.org/name>   "Sodexo"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.8102434"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4307549"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13385>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Place des Chasseurs Ardennais  6690 Vielsalm" ;
+        <http://openthings.org/link>   <http://www.herbalgem.be> ;
+        <http://openthings.org/name>   "Herbalgem"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio et préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.2871756"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9016214"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13556>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Magotiaux Claudy"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8128622"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.3734635"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11641>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rocherath Am Kornhof 16 4761 Bullingen" ;
+        <http://openthings.org/name>   "Mertens Eduard"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4559831"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.3227426"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13343>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Goffinet Denis"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.5402451"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.621537"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24475>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3840 Bommershoven (Haren)" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24475> ;
+        <http://openthings.org/name>   "Voedselteam Borgloon "@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.7881486"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.3876867"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11954>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Dennenlaan 10 2340 Beerse" ;
+        <http://openthings.org/link>   <http://koffie.be> , <http://www.sas> ;
+        <http://openthings.org/name>   "Sas nv"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur importateur contractant"@fr , "Certifié comme préparateur bio"@fr , "Sucre"@fr , "Café et café soluble"@fr , "Thés et tisanes"@fr ;
+        <http://schema.org/latitude>   "51.3027311"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8407698"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23319>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Lemaire Cédric"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.692185"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.8255353"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11570>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Au Thier 24 4870 Trooz" ;
+        <http://openthings.org/name>   "Labeye Jean-François"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.5676025"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.6782478"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20937>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Muizenholstraat 20 9570 Deftinge" ;
+        <http://openthings.org/link>   <http://www.hoftemuizenhole.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20937> ;
+        <http://openthings.org/name>   "Druwez Jenny - Depraetere Damien / Hof ten Muizenhole"@fr ;
+        <http://openthings.org/tag>    "Légumes frais"@fr , "Pommes de terre"@fr , "Certifié comme agriculteur bio"@fr , "Viande de boeuf"@fr , "Céréales"@fr ;
+        <http://schema.org/latitude>   "50.776084"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.8388949"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11691>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Asdonkstraat 49 3294 Molenstede" ;
+        <http://openthings.org/link>   <http://www.bolhuis.be> , <http://www.puurbio.eu> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=11691> ;
+        <http://openthings.org/name>   "Natuurboerderij het Bolhuis"@fr ;
+        <http://openthings.org/tag>    "Viande d'agneau, de mouton, de chèvre"@fr , "Certifié comme agriculteur bio"@fr , "Viande de boeuf"@fr , "Volaille"@fr ;
+        <http://schema.org/latitude>   "51.0134056"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.0437957"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23227>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Ferme André sprl"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.3564321"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.3170914"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13735>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Sauvage Joseph et Arnaud"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4254341"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5699594"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20532>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Oostvaart  63 9180 Moerbeke-Waas" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20532> , <http://www.oxfamwereldwinkels.be/nl/MoerbekeWaas> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.1863663"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.9735082"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13180>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Ferme de Verly 6769 MEIX / VIRTON" ;
+        <http://openthings.org/name>   "Defat Christian"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.5675744"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5335074"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22589>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Winkel Thierry et Deknudt Josian"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.076485"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.6076674"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25221>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Florevia sprl"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.4957124"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9017962"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18211>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Maastrichtersteenweg 19b 3680 Maaseik" ;
+        <http://openthings.org/link>   <http://maaseik.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=18211> , <http://www.natuurwinkel> ;
+        <http://openthings.org/name>   "Natuurwinkel `t Viooltje"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.0957922"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.781549"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13593>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Meurens Natural SA"@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur"@fr , "Certifié comme préparateur bio"@fr , "Céréales"@fr ;
+        <http://schema.org/latitude>   "50.6415963"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7896478"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13764>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "4ème Rue 6040 JUMET" ;
+        <http://openthings.org/link>   <http://www.sodial.be> ;
+        <http://openthings.org/name>   "Sodial"@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur"@fr , "Poisson"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.4427249"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4370311"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24449>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3212 Pellenberg" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24449> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Pellenberg"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8715002"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.793849"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25229>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Frogneux Benoît"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.5819711"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.0483054"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22192>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Industrieterrein Kanaal Noord 1449 3960 Bree" ;
+        <http://openthings.org/name>   "Flanders Meat Traders NV"@fr ;
+        <http://openthings.org/tag>    "Actif comme contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.1477972"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.6159167"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13125>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Château de Hun 5537 Annevoie-Rouillon" ;
+        <http://openthings.org/name>   "Comte Hugues de Lannoy"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.34738"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.84882"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20640>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Daalstraat 121 1852 Grimbergen" ;
+        <http://openthings.org/name>   "Hof ter Lint"@fr ;
+        <http://openthings.org/tag>    "Actif comme contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.9545478"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3778598"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18219>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Zwevegemsestraat 50 8500 Kortrijk" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18219> ;
+        <http://openthings.org/name>   "Maelfait"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "50.8252884"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.2722362"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24783>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Klaverveld 2 9255 Buggenhout" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/buggenhout> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24783> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.0152242"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1956723"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/17965>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Leliestraat 4 2860 St-Katelijne-Waver" ;
+        <http://openthings.org/name>   "Trakat BVBA"@fr ;
+        <http://openthings.org/tag>    "Désherbage mechanique"@fr , "Certification ne pas applicable"@fr , "Actif comme fournisseur pour l'agriculteur"@fr ;
+        <http://schema.org/latitude>   "51.067146"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5366264"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24215>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Jacquet Christian"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.265159"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9016931"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12111>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Schaapveld 20 9200 Dendermonde" ;
+        <http://openthings.org/link>   <http://www.sivafrost.be> ;
+        <http://openthings.org/name>   "Sivafrost nv"@fr ;
+        <http://openthings.org/tag>    "Actif comme contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.0271405"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1402692"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/17923>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Minderbroederstraat  8 3000 Leuven" ;
+        <http://openthings.org/link>   <http://www.covavee.be> ;
+        <http://openthings.org/name>   "Covavee CVBA"@fr ;
+        <http://openthings.org/tag>    "Actif comme acheteur de l'agriculteur"@fr , "Viande"@fr , "Certification ne pas applicable"@fr ;
+        <http://schema.org/latitude>   "50.8777532"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.6963922"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24862>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Gemeenteplein 2650 Edegem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24862> ;
+        <http://openthings.org/name>   "Markt Edegem"@fr ;
+        <http://openthings.org/tag>    " "@fr ;
+        <http://schema.org/latitude>   "51.1550779"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4455252"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24499>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9050 Gentbrugge" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24499> ;
+        <http://openthings.org/name>   "Voedselteam Gentbrugge-Hazenakker"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.0342951"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7640148"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18440>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Waterloosesteenweg 690 1180 Brussel-Ukkel" ;
+        <http://openthings.org/name>   "Le Lip`s"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.8158228"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3671794"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18269>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "De Merodelei 36 bus 1 2300 Turnhout" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18269> ;
+        <http://openthings.org/name>   "De Maretak"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.3223016"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9416317"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11602>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Lequeut Rémy"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.1910906"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.6034088"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18077>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Brusselse Steenweg 310 3090 Overijse" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18077> , <http://www.origino.be> ;
+        <http://openthings.org/name>   "Origin'O Overijse"@fr ;
+        <http://openthings.org/tag>    "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "50.774993"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5364829"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24415>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 2200 Herentals" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24415> ;
+        <http://openthings.org/name>   "Voedselteam Herentals Spiegel"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.1768785"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.835648"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13809>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Van Ael Jeremie"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.19255"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.43614"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20435>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Polderbos 2A 9840 De Pinte" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20435> , <http://www.oxfamwereldwinkels.be/nl/depinte> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "50.9953554"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.6576561"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12282>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Wenenstraat 6 2321 Meer" ;
+        <http://openthings.org/link>   <http://www.freshconnection.be> ;
+        <http://openthings.org/name>   "Fresh Warehousing"@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.4725698"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7265315"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25124>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Kranenburgstraat 16/4 3271 Zichem" ;
+        <http://openthings.org/name>   "BioGourmet - Biir Brewers Belgium"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.0009441"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.988223"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21265>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Eibertingen   32 4770 Amel" ;
+        <http://openthings.org/name>   "Pauels Hubert"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.3614331"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.1510517"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25224>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.froidmontinsertion.be> ;
+        <http://openthings.org/name>   "La Ferme de Froidmont Insertion asbl"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.7063252"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5339665"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24444>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 3070 Kortenberg" ;
+        <http://openthings.org/link>   <http://www.voedselteams.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=24444> ;
+        <http://openthings.org/name>   "Voedselteam Kortenberg"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8855654"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5374772"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12148>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Riyadhstraat 41 2321 Meer" ;
+        <http://openthings.org/link>   <http://www.fme> , <http://nv.com> ;
+        <http://openthings.org/name>   "FME - Fresh Mushroom Europe nv"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr , "Actif comme acheteur de l'agriculteur"@fr , "Champignon"@fr ;
+        <http://schema.org/latitude>   "51.4673474"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.7223367"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23380>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sint-Lambertusstraat 1 2018 Antwerpen" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=23380> , <http://www.kornel.be> ;
+        <http://openthings.org/name>   "Kornel"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.1998879"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4193753"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/17889>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue Romaine 2 5310 Branchon" ;
+        <http://openthings.org/link>   <http://www.cecotec.be> ;
+        <http://openthings.org/name>   "Cecotec CVBA"@fr ;
+        <http://openthings.org/tag>    "Machines agricoles"@fr , "Désherbage mechanique"@fr , "Actif comme fournisseur pour l'agriculteur"@fr , "Certification ne pas applicable"@fr ;
+        <http://schema.org/latitude>   "50.6308004"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9533323"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22245>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "M. Martens Pierre (Martens-Pirotte s.c.)"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.0312084"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5637292"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24139>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Schmitz Jean-Pierre"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.3823618"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.9741117"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13320>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue de Bruxelles 61 5000 NAMUR" ;
+        <http://openthings.org/name>   "Fundp ASBL  (M. Debois - Service Technique)"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4662458"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8605017"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13846>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Schaapveld 7 9200 Dendermonde" ;
+        <http://openthings.org/link>   <http://www.ceval.be> ;
+        <http://openthings.org/name>   "Vitaline (Ceval Healthfood)"@fr ;
+        <http://openthings.org/tag>    "Jus de légumes"@fr , "Jus de fruits"@fr , "Pâtisserie"@fr , "Biscuits"@fr , "Actif comme distributeur"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.0255118"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1394315"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23317>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Industrielaan 16-20 1740 Ternat" ;
+        <http://openthings.org/link>   <http://www.hls.be> ;
+        <http://openthings.org/name>   "Horeca Logistic Services NV"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur"@fr , "Boisson rafraîchissante"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.8878282"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1774068"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12156>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Eethuisstraat 128-140 2170 Merksem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=12156> , <http://www.hetnatuurhuis.be> ;
+        <http://openthings.org/name>   "Hét Natuurhuis"@fr ;
+        <http://openthings.org/tag>    "Pâtisserie"@fr , "Certifié comme préparateur bio et point de vente"@fr , "Pain frais"@fr ;
+        <http://schema.org/latitude>   "51.2497385"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4649676"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21565>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Place de l’église 6 5377 Nettinne" ;
+        <http://openthings.org/name>   "Petry Martin"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.2915312"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.2628697"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/17968>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Glabbeekstraat  129 3450 Geetbets" ;
+        <http://openthings.org/link>   <http://www.ecostyle.be> ;
+        <http://openthings.org/name>   "Ecostyle"@fr ;
+        <http://openthings.org/tag>    "Protection des plantes"@fr , "Engrais organique"@fr , "Certification ne pas applicable"@fr , "Sol pour pot/ amélioration de sol"@fr , "Actif comme fournisseur pour l'agriculteur"@fr ;
+        <http://schema.org/latitude>   "50.8794339"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.102528"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21715>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Mestach Frédéric"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4194004"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.1020959"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13754>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Simon Frederic et Gathy Valerie SASPJ"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4806609"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.5350984"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23751>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sint-Godelievestraat 55 9032 Wondelgem" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=23751> ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.0789561"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7135846"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21452>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Hogekouterstraat 47 9030 Mariakerke (Gent)" ;
+        <http://openthings.org/link>   <http://www.goedvandoen.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=21452> ;
+        <http://openthings.org/name>   "GOEDvandoen"@fr ;
+        <http://openthings.org/tag>    "Certification ne pas applicable"@fr ;
+        <http://schema.org/latitude>   "51.0762499"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7023079"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18080>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Sint-Benedictusstraat 11 2640 Mortsel" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18080> , <http://www.degroenewinkel.be> ;
+        <http://openthings.org/name>   "De Groene Winkel"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.1655859"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4625407"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11605>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "rue Sart Helman 6 5380 Franc-Waret" ;
+        <http://openthings.org/name>   "Longrée Olivier"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.5216025"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9812271"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13662>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Petit Marie-Claire"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8691411"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.3136484"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12185>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Bosdel 44 B 3600 Genk" ;
+        <http://openthings.org/link>   <http://www.iceshell.be> ;
+        <http://openthings.org/name>   "Ice Shell"@fr ;
+        <http://openthings.org/tag>    "Salades"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.9510624"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4776389"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21410>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Guldensporenpark 90 Blok J 9820 Merelbeke" ;
+        <http://openthings.org/link>   <http://www.lidl.be> ;
+        <http://openthings.org/name>   "Lidl Belgium GmbH &amp; Co. KG"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr , "Café et café soluble"@fr , "Légumes frais"@fr , "Pâtes"@fr , "Légumes surgelés"@fr , "Biscuits"@fr ;
+        <http://schema.org/latitude>   "51.0043637"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7548948"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25169>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Marechal Philippe"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "49.6105851"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7595071"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13065>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.cantillon.be> ;
+        <http://openthings.org/name>   "Brasserie Cantillon"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr , "Bière"@fr ;
+        <http://schema.org/latitude>   "50.8415807"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.335621"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23254>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Rue Vieux Tauves 90 5300 Coutisse" ;
+        <http://openthings.org/name>   "Le Père Prodigue asbl"@fr ;
+        <http://openthings.org/tag>    "En conversion à l'agriculture bio"@fr ;
+        <http://schema.org/latitude>   "50.460747"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.1175915"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13044>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Bison Products scrl"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8972596"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.9310445"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23588>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Distillerie Radermacher SA"@fr ;
+        <http://openthings.org/tag>    "Liqueur et cidre"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.6715716"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.1218788"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13186>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Delemme Marie Louise"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.0849339"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.2752443"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12940>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Adam Henri et Maraite Yvette"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.3912024"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "6.031839"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22916>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Welschen Olivier"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.6115169"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.8158989"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13499>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Le Jardin de Bellecourt  SA"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.4745092"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.2601284"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22532>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Dupont Francis (La Truite de Freux)"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.917335"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4007521"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21581>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " rue de  Mariembourg 15 5670 Olloy-sur-Viroin" ;
+        <http://openthings.org/name>   "Bodart du Viroin Société Agricole"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.0910194"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.589916"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22461>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Deleuze Irma et Jean-Michel SASPJ"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.34725"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.56188"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21305>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.flavori.com> ;
+        <http://openthings.org/name>   "Flavori  SA"@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur"@fr , "Herbes et épices"@fr , "Certifié comme préparateur bio"@fr , "Herbes aromatiques"@fr ;
+        <http://schema.org/latitude>   "50.904529"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4207537"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24505>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                " 9170 De Klinge" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=24505> , <http://www.voedselteams.be> ;
+        <http://openthings.org/name>   "Voedselteam Sint-Gillis-Waas"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.256206"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.0900407"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24668>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Lossing 11 B 2260 Westerlo" ;
+        <http://openthings.org/link>   <http://www.vansoest> , <http://be.eu> ;
+        <http://openthings.org/name>   "Van Soest Westerlo"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur contractant"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.0911394"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8218349"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13323>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Route de la Tour  40 6800 BOUGNIMONT (Libramont)" ;
+        <http://openthings.org/name>   "Gvbob SCRL"@fr ;
+        <http://openthings.org/tag>    "Viande de boeuf"@fr , "Actif comme acheteur de l'agriculteur"@fr , "Viande"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "49.9446533"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4666765"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21042>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Koude-Keukenstraat 12 8200 Sint-Andries" ;
+        <http://openthings.org/link>   <http://www.koekenzopie.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=21042> ;
+        <http://openthings.org/name>   "Koek &amp; Zopie"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.1982189"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.1831664"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13273>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "rue Bellevue  68 6740 Etalle" ;
+        <http://openthings.org/name>   "Falmagne-Deglaire Jean-Luc et Emilie GR"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.6694372"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.57796"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20604>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Dorpsstraat 99 2990 Wuustwezel" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=20604> , <http://www.oxfamwereldwinkels.be/nl/wuustwezel> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "51.3826749"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.602991"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22682>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Calozet René"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.7825626"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.6332811"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18154>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Stationsstraat 34 8470 Gistel" ;
+        <http://openthings.org/link>   <http://users.telenet.be/Balsemien/> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=18154> ;
+        <http://openthings.org/name>   "Balsemien"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "51.1556698"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "2.9649199"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/20575>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "De Villegasstraat 12 1853 Strombeek-Bever" ;
+        <http://openthings.org/link>   <http://www.oxfamwereldwinkels.be/nl/strombeek> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=20575> ;
+        <http://openthings.org/name>   "Oxfam Wereldwinkel"@fr ;
+        <http://openthings.org/tag>    "Point de vente dispensé de contrôle"@fr ;
+        <http://schema.org/latitude>   "50.910465"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.357792"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22022>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Edinburgstraat 26 1050 Brussel (Elsene)" ;
+        <http://openthings.org/link>   <http://b.org> , <http://www.mundo> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=22022> ;
+        <http://openthings.org/name>   "Mundo-B"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "50.8378584"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.3643789"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22569>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Mauroy Xavier"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.5388674"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.0711648"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21597>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Wolfsakker 6 9160 Lokeren" ;
+        <http://openthings.org/link>   <http://www.granimex.be> ;
+        <http://openthings.org/name>   "Wouters"@fr ;
+        <http://openthings.org/tag>    "Huiles et graisses végétales"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.0867505"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.0161613"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/25193>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.fit> , <http://ingredients.com> ;
+        <http://openthings.org/name>   "F.I.T. sprl   Food Ingredients Technologies"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.6653801"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.8676112"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13281>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/link>   <http://www.fermecroix.com> ;
+        <http://openthings.org/name>   "La ferme de la Croix sprl"@fr ;
+        <http://openthings.org/tag>    "Pain frais"@fr , "Biscuits"@fr , "Pâtisserie"@fr , "Certifié comme préparateur bio"@fr , "Actif comme distributeur"@fr ;
+        <http://schema.org/latitude>   "50.5692641"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.2419648"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22506>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Raucoux Marie-Claude"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.9984179"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.8947868"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/11708>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Bezemstraat 260 1600 Sint-Pieters-Leeuw" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=11708> ;
+        <http://openthings.org/name>   "De Leener Jean-Pierre"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio et point de vente"@fr , "Légumes frais"@fr ;
+        <http://schema.org/latitude>   "50.8031886"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.265437"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/23762>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Kerkstraat 108 9050 Gentbrugge" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=23762> ;
+        <http://openthings.org/name>   "De Punt"@fr ;
+        <http://openthings.org/tag>    "Aucune information de certification trouvée"@fr ;
+        <http://schema.org/latitude>   "51.0445374"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7511348"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21300>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Delaisse Michel"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.7053077"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.4242889"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12246>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Borstekouterstraat 66 9630 Zwalm" ;
+        <http://openthings.org/link>   <http://www.cressana.com> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=12246> ;
+        <http://openthings.org/name>   "Cressana"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio et préparateur bio"@fr , "Suppléments diététiques"@fr , "Actif comme importateur"@fr , "Légumes frais"@fr ;
+        <http://schema.org/latitude>   "50.866584"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.7538361"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/12225>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Dellingstraat 31 B 2800 Mechelen" ;
+        <http://openthings.org/link>   <http://www.somers.be> ;
+        <http://openthings.org/name>   "Somers Seeds"@fr ;
+        <http://openthings.org/tag>    "Actif comme importateur fournisseur pour l'agriculteur"@fr , "Semences"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.014091"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.4982396"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/13360>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "SERY  585 6688  LONGCHAMPS" ;
+        <http://openthings.org/name>   "Guillaume Eric"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "50.0427389"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.7047937"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/18283>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Hoorzeelstraat 42 3080 Tervuren" ;
+        <http://openthings.org/link>   <http://www.biomijnnatuur.be/biogenietengids/detail?id=18283> ;
+        <http://openthings.org/name>   "Tervuur Natuur"@fr ;
+        <http://openthings.org/tag>    "Pas de certificat bio"@fr ;
+        <http://schema.org/latitude>   "50.8216817"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.5127927"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24663>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Samelstraat 59 9170 Sint-Gillis-Waas" ;
+        <http://openthings.org/link>   <http://party.be> , <http://www.mellow> ;
+        <http://openthings.org/name>   "Mellow-Party"@fr ;
+        <http://openthings.org/tag>    "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "51.2185569"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "4.1349215"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/22940>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Stokhovestraat 32 8020 Waardamme" ;
+        <http://openthings.org/link>   <http://www.tambrozijn.be> , <http://www.biomijnnatuur.be/biogenietengids/detail?id=22940> ;
+        <http://openthings.org/name>   "Jarno Claeys 't Ambrozijn"@fr ;
+        <http://openthings.org/tag>    "Fruits frais"@fr , "Légumes frais"@fr , "Aliment pour le bétail"@fr , "Ingrédients pour aliment de bétail"@fr , "Certifié comme point de vente bio"@fr ;
+        <http://schema.org/latitude>   "51.2034838"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.4561086"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/24813>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/address>
+                "Begoniastraat 19 9810 Eke" ;
+        <http://openthings.org/name>   "Herve Coldstore"@fr ;
+        <http://openthings.org/tag>    "Actif comme distributeur"@fr , "Certifié comme préparateur bio"@fr ;
+        <http://schema.org/latitude>   "50.9763995"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "3.6549176"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://openthings.org/organization/21229>
+        a                              <http://openthings.org/organization> ;
+        <http://openthings.org/name>   "Annet Thierry"@fr ;
+        <http://openthings.org/tag>    "Certifié comme agriculteur bio"@fr ;
+        <http://schema.org/latitude>   "49.8053884"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        <http://schema.org/longitude>  "5.3595962"^^<http://www.w3.org/2001/XMLSchema#float> .
