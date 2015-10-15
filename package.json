@@ -2,6 +2,10 @@
   "name": "rdf-toy-store",
   "private": true,
   "version": "0.0.0",
+	"engines": {
+    "node": "0.10.25",
+"npm": "1.3.10"
+  },
   "description": "Stores some RDF in a local store",
   "main": "./server/server.js",
   "license": "MIT",
