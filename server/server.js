@@ -25,7 +25,8 @@ app.listen(port);
 
 var os = require("os");
 function getURIQA(){
-    return 'http://'+os.hostname()+':'+ port+'/api/nodes/';
+    return 'https://quiet-forest-9004.herokuapp.com/api/nodes/';
+//    return 'http://'+os.hostname()+':'+ port+'/api/nodes/';
 }
 console.log("App listening on port " + port);
 
