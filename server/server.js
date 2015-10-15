@@ -7,11 +7,7 @@ var bodyParser = require('body-parser');    // pull information from HTML POST (
 
 // options =================
 
-var argv = require('optimist')
-    .default('port', 8080)
-    .argv;
-console.log(__dirname);
-
+var port = process.env.PORT || 5000;
 
 
 // configuration =================
@@ -25,13 +21,13 @@ app.use(express.static('app'));
 app.use(express.static('server/rdf'));
 
 // listen (start app with node server.js) ======================================
-app.listen(argv.port);
+app.listen(port);
 
 var os = require("os");
 function getURIQA(){
-    return 'http://'+os.hostname()+':'+ argv.port+'/api/nodes/';
+    return 'http://'+os.hostname()+':'+ port+'/api/nodes/';
 }
-console.log("App listening on port " + argv.port);
+console.log("App listening on port " + port);
 
 // api ---------------------------------------------------------------------
 
