@@ -1,7 +1,6 @@
 # nodejs-rdf-angular-leaflet
 
-A mini test to play with angular and nodejs datastore, it shows the rdf data in a master-detail map.
-
+A mini test to play with [angularjs](https://angularjs.org/) and [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js), it shows the data on [leafletjs](http://leafletjs.com/).
 
 ### Screenshot
 
